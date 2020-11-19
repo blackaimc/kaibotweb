@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b02648e1.chunk.css",
+    "main.js": "/static/js/main.a69e8512.chunk.js",
+    "main.js.map": "/static/js/main.a69e8512.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e51c17f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e51c17f.js.map",
+    "static/css/2.eae91454.chunk.css": "/static/css/2.eae91454.chunk.css",
+    "static/js/2.f9c6c96d.chunk.js": "/static/js/2.f9c6c96d.chunk.js",
+    "static/js/2.f9c6c96d.chunk.js.map": "/static/js/2.f9c6c96d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e033b779ee564859e740cdc0f0025e74.js": "/precache-manifest.e033b779ee564859e740cdc0f0025e74.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eae91454.chunk.css.map": "/static/css/2.eae91454.chunk.css.map",
+    "static/css/main.b02648e1.chunk.css.map": "/static/css/main.b02648e1.chunk.css.map",
+    "static/js/2.f9c6c96d.chunk.js.LICENSE.txt": "/static/js/2.f9c6c96d.chunk.js.LICENSE.txt",
+    "static/media/Kaibot.png": "/static/media/Kaibot.fd0f61c8.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e51c17f.js",
+    "static/css/2.eae91454.chunk.css",
+    "static/js/2.f9c6c96d.chunk.js",
+    "static/css/main.b02648e1.chunk.css",
+    "static/js/main.a69e8512.chunk.js"
+  ]
+}
